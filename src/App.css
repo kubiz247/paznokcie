@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.paznokcie-section{
+  height: 220px;
+  width: 550px;
+  display: flex;
+  margin-left: 50px;
+  padding: 20px;
+}
+.paznokcie-section:hover{
+  border: 2px solid black;
+  border-radius: 10px;
+  transition: 0.3s all;
+  scale: 110%
+}
+.left{
+  float: left;
+}
+.wszystko{
+  width: 300px;
+}
+.cena{
+  font-weight: bold;
+}
+.kolekcja{
+  background-color: mistyrose;
+}
+.ogolny{
+
+}
